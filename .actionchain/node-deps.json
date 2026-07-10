@@ -1,0 +1,9 @@
+{
+  "status": "bundled",
+  "entries": [
+    {
+      "path": "lib/login.js",
+      "status": "bundled"
+    }
+  ]
+}
